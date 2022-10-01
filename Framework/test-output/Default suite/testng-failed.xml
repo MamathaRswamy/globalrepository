@@ -3,14 +3,14 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="amazon.TC07_Test">
+      <class name="amazon.TC09_Test">
         <methods>
           <include name="launchBrowser"/>
           <include name="navigatetoApp"/>
           <include name="logoutfromapp"/>
-          <include name="adding_to_wishlist_and_checking_in_my_wishlist"/>
+          <include name="clicking_on_All_dropdown_searchbar"/>
         </methods>
-      </class> <!-- amazon.TC07_Test -->
+      </class> <!-- amazon.TC09_Test -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
