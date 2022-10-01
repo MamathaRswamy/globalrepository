@@ -25,7 +25,8 @@ public class BaseClass
 	public void navigatetoApp() 
 	{
 		//driver.get("https://demowebshop.tricentis.com/");
-		driver.get("https://www.amazon.in/ap/signin?ie=UTF8&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.in%2Fref%3Drhf_sign_in&openid.assoc_handle=inflex&openid.mode=checkid_setup&ignoreAuthState=1&ie=UTF8&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&fromAuthPrompt=1");
+		driver.get("https://www.amazon.in/");
+		//driver.get("https://www.amazon.in/ap/signin?ie=UTF8&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.in%2Fref%3Drhf_sign_in&openid.assoc_handle=inflex&openid.mode=checkid_setup&ignoreAuthState=1&ie=UTF8&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&fromAuthPrompt=1");
 	}
 	
 	
